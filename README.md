@@ -98,7 +98,8 @@ For any questions or assistance, please reach out to your mentors or contact [yo
 
 ## Screenshots
 
-![Screenshot 2024-08-04 041319](https://github.com/user-attachments/assets/ca3f0329-647d-4764-9bd8-5dc5c873e3c7)
+![Screenshot 2024-08-04 041502](https://github.com/user-attachments/assets/3a6562bc-9ce6-48a9-aa0b-535bc688d67c)
+
 ![Screenshot 2024-08-04 041502](https://github.com/user-attachments/assets/abd28a6f-9ab5-4f0b-8479-3929e095c2bb)
 
 
