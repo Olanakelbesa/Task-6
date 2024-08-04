@@ -31,7 +31,7 @@
 				"required_skills": ["Social Media Marketing", "English", "Copywriting"]
 			},
 			"company": "ABC Media",
-			"image": "/job1.png"
+			"image": "/assets/job-1.png"
 		},
 		{
 			"id": "2",
@@ -64,7 +64,7 @@
 				"required_skills": ["HTML", "CSS", "JavaScript", "PHP"]
 			},
 			"company": "Tech Innovators",
-			"image": "/job1.png"
+			"image": "/assets/job-2.jpg"
 		},
 		{
 			"id": "3",
@@ -103,7 +103,7 @@
 				]
 			},
 			"company": "Creative Designs Co.",
-			"image": "/job1.png"
+			"image": "/assets/job-3.jpg"
 		},
 		{
 			"id": "4",
@@ -137,7 +137,7 @@
 				"required_skills": ["SQL", "Python", "Excel", "Statistical Analysis"]
 			},
 			"company": "Data Insights Inc.",
-			"image": "/job1.png"
+			"image": "/assets/job-4.jpg"
 		},
 		{
 			"id": "5",
@@ -177,7 +177,7 @@
 				]
 			},
 			"company": "Customer Care Ltd.",
-			"image": "/job1.png"
+			"image": "/assets/job-1.png"
 		}
 	]
 }

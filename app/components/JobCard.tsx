@@ -2,7 +2,6 @@
 
 import React from "react";
 import Image from "next/image";
-import Img from "../../public/favicon.ico";
 import { CardData } from "@/types/CardData";
 
 interface JobCardProps {
@@ -14,7 +13,7 @@ const JobCard: React.FC<JobCardProps> = ({ job }) => {
 		<div className="p-5 border-solid border-2 border-sky-200 rounded-2xl cursor-pointer mb-5">
 			<div className="flex">
 				<Image
-					src={Img}
+					src={job.image}
 					alt="Job Image"
 					width={50}
 					height={50}
