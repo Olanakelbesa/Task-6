@@ -1,24 +1,89 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Sure, I'll include the `react-icons` library in the list of technologies used. Here's the updated README file:
+
+---
+
+# Job Listing Application
+
+This project is a job listing application built using Next.js, React, and Tailwind CSS. The application displays job listings with detailed descriptions and requirements. This README provides an overview of the project and guides you through the steps to set it up and run it locally.
+
+## Table of Contents
+
+- [Features](#features)
+- [Prerequisites](#prerequisites)
+- [Getting Started](#getting-started)
+- [Task Series](#task-series)
+  - [Task 6: Building Job Listing Application](#task-6-building-job-listing-application)
+    - [Objective](#objective)
+    - [Steps](#steps)
+- [Learn More](#learn-more)
+- [Screenshots](#screenshots)
+- [Technologies Used](#technologies-used)
+
+## Features
+
+- Job listings with detailed descriptions
+- Display of responsibilities, ideal candidate traits, and event information
+- Categories and required skills for each job
+- Avatar images for each job listing
+- Job listing dashboard styled with Tailwind CSS
+
+## Prerequisites
+
+Before you begin, ensure you have the following installed:
+
+- Node.js (v14 or later)
+- npm (v6 or later)
 
 ## Getting Started
 
-First, run the development server:
+1. **Clone the repository:**
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+    ```bash
+    git clone https://github.com/your-username/job-listing-app.git
+    cd job-listing-app
+    ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+2. **Install dependencies:**
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+    ```bash
+    npm install
+    ```
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+3. **Run the development server:**
+
+    ```bash
+    npm run dev
+    ```
+
+    Open [http://localhost:3000](http://localhost:3000) in your browser to see the application.
+
+
+
+## Task Series
+
+### Task 6: Building Job Listing Application
+
+**Objective:**
+
+Create a React component for a job card and populate it with dummy data. Additionally, create the Job Listing Dashboard.
+
+**Steps:**
+
+1. **Design the Card:**
+   - Create a React component that visually represents the job card based on the provided design.
+   - Pay attention to layout, colors, and typography.
+
+2. **Use the Given JSON Data:**
+   - Populate the card with the provided dummy data.
+   - Example JSON data is available in the `JobData.ts` file.
+
+3. **Add Avatar Image:**
+   - Use the provided avatar image URL to incorporate an avatar image into the card.
+   - Ensure proper display within the designated area of the card.
+
+4. **Create the Applicants Dashboard:**
+   - Use Tailwind CSS to style the job description and other details.
+
 
 ## Learn More
 
@@ -27,10 +92,21 @@ To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
 - [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Contact
 
-## Deploy on Vercel
+For any questions or assistance, please reach out to your mentors or contact [your email].
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Screenshots
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+![Screenshot 2024-08-04 041319](https://github.com/user-attachments/assets/ca3f0329-647d-4764-9bd8-5dc5c873e3c7)
+![Screenshot 2024-08-04 041502](https://github.com/user-attachments/assets/abd28a6f-9ab5-4f0b-8479-3929e095c2bb)
+
+
+## Technologies Used
+
+- Next.js
+- React
+- Tailwind CSS
+- TypeScript
+- react-icons
+
